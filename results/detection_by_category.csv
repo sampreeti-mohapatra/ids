@@ -1,0 +1,5 @@
+Category,Logistic Regression,Random Forest,SVM (Linear)
+DoS,0.9818,0.9999,0.9815
+Probe,0.9514,0.9971,0.9602
+R2L,0.3363,0.9558,0.2920
+U2R,0.6667,1.0000,0.6667
